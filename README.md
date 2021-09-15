@@ -31,3 +31,4 @@ This code was heavily inspired by [@jacc music-box](https://github.com/jacc/musi
 - **GITHUB_ACCESS_TOKEN:** The GitHub token generated above.
 - **SPOTIPY_CLIENT_ID:** The client id you got while creating the Spotify app.
 - **SPOTIPY_CLIENT_SECRET:** The client secret you got while creating the Spotify app.
+
