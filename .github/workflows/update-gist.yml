@@ -25,7 +25,6 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install spotipy, PyGithub
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Update
       run: |
