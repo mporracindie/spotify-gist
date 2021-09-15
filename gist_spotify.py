@@ -8,7 +8,7 @@ import os
 # export SPOTIPY_CLIENT_SECRET=''
 # export GITHUB_ACCESS_TOKEN=''
 gist_id = '5b7490ecfa945c45dd6dcd7f70896ca5'
-gist_file_name = '🎵 My last week in music'
+gist_file_name = '🎵 My last month in music'
 
 scope = "user-top-read"
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
